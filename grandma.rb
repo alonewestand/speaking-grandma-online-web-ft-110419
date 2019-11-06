@@ -3,7 +3,7 @@ def speak_to_grandma(phrase="wagabababobo")
          puts "HUH?! SPEAK UP, SONNY!"
     elsif phrase != 'I LOVE YOU GRANDMA!' then
         puts 'HUH? NOT SINCE 1938'
-    elsif phrase == 'I LOVE YOU GRANDMA!' then
+    elsif phrase == 'I LOVE YOU GRANDMA!' 
          puts 'I LOVE YOU TOO PUMPKIN!'
     else return 'she ded'
 	end
